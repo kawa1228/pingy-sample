@@ -1,0 +1,17 @@
+{
+	"name": "sample",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@pingy/cli": "^0.13.0",
+		"node-sass": "^4",
+		"babel-core": "^6",
+		"babel-preset-env": "^1"
+	},
+	"dependencies": {},
+	"scripts": {
+		"start": "pingy dev",
+		"export": "pingy export"
+	}
+}
